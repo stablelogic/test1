@@ -3,5 +3,7 @@ package com.dga.test
 
 public class Test {
 	
-	// use system out
+	public static void main(String[] args) {
+		// use system out
+	}
 }
